@@ -1,0 +1,5 @@
+black
+dog
+bear
+tiger
+bears

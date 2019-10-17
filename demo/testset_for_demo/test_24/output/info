@@ -1,0 +1,8 @@
+test_num:test_24
+image_id:coco_55695
+cap_pred:a man sitting in a chair watching tv on a couch
+cap_GT:a man is sitting in a living room watching tv
+r_num:3
+r1:chair|260,70,430,290|0,0.018,0.043,0.008,0,0.908,0,0,0,0,0.023
+r2:tv|110,470,220,575|0,0.043,0.015,0,0,0.002,0.111,0.813,0,0,0.015
+r3:couch|150,130,260,420|0,0.022,0.056,0,0,0.011,0,0,0,0.004,0.907

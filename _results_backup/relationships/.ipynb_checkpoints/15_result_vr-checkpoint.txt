@@ -1,0 +1,5 @@
+wheel,on,street\wheel,on,bike\tree,behind,horse\tree,behind,bike\tree,behind,wheel\bike,on,street\horse,on,street\street,below,tree
+wheel,on,street\wheel,on,bike\tree,behind,horse\tree,behind,bike\tree,behind,wheel\bike,on,street\horse,on,street\street,below,tree
+wheel,on,street\wheel,on,bike\tree,behind,horse\tree,behind,bike\tree,behind,wheel\bike,on,street\horse,on,street\street,below,tree
+wheel,on,street\wheel,on,bike\tree,behind,horse\tree,behind,bike\tree,behind,wheel\bike,on,street\horse,on,street\street,below,tree
+wheel,on,street\wheel,on,bike\tree,behind,horse\tree,behind,bike\tree,behind,wheel\bike,on,street\horse,on,street\street,below,tree

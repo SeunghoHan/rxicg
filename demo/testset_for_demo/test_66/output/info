@@ -1,0 +1,7 @@
+test_num:test_66
+image_id:coco_373338
+cap_pred:a repair truck in front of a building be construction
+cap_GT:a large crane sitting in front of a building under construction
+r_num:2
+r1:truck|280, 140, 410, 540|0,0.037,0.877,0,0.003,0,0,0.009,0,0.074
+r2:building|150, 500,320,640|0,0,0.063,0,0.002,0,0,0.885,0,0.012

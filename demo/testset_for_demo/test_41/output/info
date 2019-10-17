@@ -1,0 +1,8 @@
+test_num:test_41
+image_id:coco_59556
+cap_pred:a table with bottle pie and grass and foods
+cap_GT:a table with desserts, chips, drinks, cups, and paper towels on it
+r_num:3
+r1:bottle|10,440,190,540|0,0.074,0,0.889,0.007,0,0,0,0.027
+r2:pie|170,240,415,630|0,0.09,0,0.042,0.851,0,0,0,0.018
+r3:grass|10,10,70,140|0,0.002,0,0.008,0,0,0.962,0,0.027

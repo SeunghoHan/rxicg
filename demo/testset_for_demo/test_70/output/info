@@ -1,0 +1,7 @@
+test_num:test_70
+image_id:coco_573635
+cap_pred:parking lot of truck and building on a street
+cap_GT:a yard filled with trucks parked next to each other
+r_num:2
+r1:truck|240,65,455,220|0.121,0.043,0,0.822,0,0.012,0,0,0.003
+r2:building|170,185,430,470|0.013,0,0,0.082,0,0.862,0,0,0.039

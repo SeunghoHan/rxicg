@@ -1,0 +1,8 @@
+test_num:test_39
+image_id:coco_95100
+cap_pred:a woman looking at a cake sitting on a floor
+cap_GT:a woman staring at a pizza, that has a very thick crust
+r_num:3
+r1:woman|0,0,310,200|0,0.869,0.075,0.038,0,0,0.015,0,0,0.003
+r2:cake|295,60,495,360|0,0.021,0,0,0,0.97,0.007,0,0,0.002
+r3:floor|315,0,500,370|0,0.038,0,0,0,0.006,0,0.109,0,0.848

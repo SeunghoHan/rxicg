@@ -1,0 +1,8 @@
+test_num:test_31
+image_id:coco_459372
+cap_pred:a man holding briefcase with big doll
+cap_GT:a man in mask holding a suitcase full of money next to person in shark costume
+r_num:3
+r1:man|25,80,420,250|0,0.889,0.071,0.04,0,0,0
+r2:briefcase|160,150,390,430|0,0.086,0.036,0.875,0,0,0.003
+r3:doll|100,450,360,600|0,0.016,0.005,0,0,0.032,0.946

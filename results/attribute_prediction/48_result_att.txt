@@ -1,0 +1,5 @@
+light
+gate
+street
+signs
+something

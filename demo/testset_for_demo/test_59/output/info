@@ -1,0 +1,7 @@
+test_num:test_59
+image_id:coco_389107
+cap_pred:a woman standing on the telephone next to car
+cap_GT:the woman is looking down into her cell phone
+r_num:2
+r1:woman|20,50,630,220|0,0.92,0.054,0.019,0,0.006,0,0,0.001
+r2:car|40,250,350,420|0,0.04,0,0,0,0.005,0.015,0,0.94

@@ -1,0 +1,8 @@
+test_num:test_38
+image_id:coco_89273
+cap_pred:a bowl to making bread and cherries with a cake
+cap_GT:instructions on how to make an upside down cranberry cake
+r_num:3
+r1:bowl|10,210,135,400|0,0.887,0,0.032,0.061,0,0.006,0,0,0.014
+r2:bread|310,420,410,560|0,0.021,0,0.002,0.908,0,0.009,0,0,0.061
+r3:cherries|180,0,265,190|0,0.017,0,0.006,0.002,0,0.954,0,0,0.02

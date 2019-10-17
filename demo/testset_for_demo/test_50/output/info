@@ -1,0 +1,8 @@
+test_num:test_50
+image_id:coco_152327
+cap_pred:a big white bird walking on many bench near people
+cap_GT:a white peacock standing in front of rows of benches
+r_num:3
+r1:bird|100,400,330,565|0,0.066,0.137,0.775,0,0,0,0.02,0,0.003
+r2:bench|65,0,350,370|0,0.02,0.01,0,0,0,0.002,0.915,0,0.045
+r3:people|17,285,65,365|0,0,0.002,0,0.056,0,0.023,0.013,0,0.907

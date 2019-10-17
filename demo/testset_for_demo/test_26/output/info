@@ -1,0 +1,9 @@
+test_num:test_26
+image_id:coco_319741
+cap_pred:a man in glasses holding a cat with a window
+cap_GT:a woman is holding a cat with concerned look on its face
+r_num:4
+r1:man|5,90,370,379|0,0.83,0,0.06,0.089,0,0.015,0,0,0.006
+r2:glasses|60,180,100,290|0,0.123,0,0.792,0.057,0,0.005,0,0,0.02
+r3:cat|160,140,310,340|0,0.038,0,0,0.016,0,0.942,0,0,0.004
+r4:window|160,350,330,480|0,0.083,0,0.004,0,0,0.012,0,0,0.901

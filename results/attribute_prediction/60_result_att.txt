@@ -1,0 +1,5 @@
+tv
+hospital
+television
+furniture
+statues

@@ -1,0 +1,5 @@
+building-has-roof\roof-above-road\bus-on-road\roof-above-bus\building-behind-bus\sky-above-road\sky-above-bus\sky-above-roof\bus-on-street\sky-above-street\roof-above-street\sky-above-building
+building-has-roof\roof-above-road\bus-on-road\roof-above-bus\building-behind-bus\sky-above-road\sky-above-bus\sky-above-roof\bus-on-street\sky-above-street\roof-above-street\sky-above-building
+building-has-roof\roof-above-road\bus-on-road\roof-above-bus\building-behind-bus\sky-above-road\sky-above-bus\sky-above-roof\bus-on-street\sky-above-street\roof-above-street\sky-above-building
+building-has-roof\roof-above-road\bus-on-road\roof-above-bus\building-behind-bus\sky-above-road\sky-above-bus\sky-above-roof\bus-on-street\sky-above-street\roof-above-street\sky-above-building
+building-has-roof\roof-above-road\bus-on-road\roof-above-bus\building-behind-bus\sky-above-road\sky-above-bus\sky-above-roof\bus-on-street\sky-above-street\roof-above-street\sky-above-building

@@ -1,0 +1,8 @@
+test_num:test_48
+image_id:coco_315257
+cap_pred:a bird sitting a blue pie bowl of seed
+cap_GT:a bird with outstretched blue wings is sitting on some bird feeder
+r_num:3
+r1:bird|115,65,370,550|0,0.842,0.029,0,0.013,0,0.005,0,0.11
+r2:pie|400,130,435,490|0,0,0.021,0,0,0.896,0.08,0,0.002
+r3:bowl|375,80,490,530|0,0.009,0,0,0.001,0.056,0.915,0,0.019

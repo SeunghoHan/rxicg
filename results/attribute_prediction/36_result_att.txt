@@ -1,0 +1,5 @@
+tower
+clock
+building
+church
+cathedral

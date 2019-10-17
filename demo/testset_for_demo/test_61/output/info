@@ -1,0 +1,6 @@
+test_num:test_61
+image_id:coco_142002
+cap_pred:a small airplan parked on
+cap_GT:two planes are seen and one is a yellow biplane
+r_num:1
+r1:airplan|100,10,380,590|0,0.046,0.938,0.016,0

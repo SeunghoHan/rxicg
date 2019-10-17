@@ -1,0 +1,5 @@
+shirt-on-person\hat-above-pants\pants-on-person\hat-on-person\shirt-above-pants\hat-above-shirt\grass-below-shirt\person-on-grass
+shirt-on-person\hat-above-pants\pants-on-person\hat-on-person\shirt-above-pants\hat-above-shirt\grass-below-shirt\person-on-grass
+shirt-on-person\hat-above-pants\pants-on-person\hat-on-person\shirt-above-pants\hat-above-shirt\grass-below-shirt\person-on-grass
+shirt-on-person\hat-above-pants\pants-on-person\hat-on-person\shirt-above-pants\hat-above-shirt\grass-below-shirt\person-on-grass
+shirt-on-person\hat-above-pants\pants-on-person\hat-on-person\shirt-above-pants\hat-above-shirt\grass-below-shirt\person-on-grass

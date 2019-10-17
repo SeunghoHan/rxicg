@@ -1,0 +1,7 @@
+test_num:test_44
+image_id:coco_239337
+cap_pred:an ocean under the blue sky with bird
+cap_GT:a beach with waves and people and a black bird flying above
+r_num:2
+r1:ocean|200,0,350,300|0,0.904,0.032,0,0,0.61,0,0.003
+r2:bird|5,285,50,350|0,0.006,0,0,0.012,0.038,0,0.943

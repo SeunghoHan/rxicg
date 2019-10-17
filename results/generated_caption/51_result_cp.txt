@@ -1,0 +1,5 @@
+0/-12.3152275085/A white building with a street sign on the corner.
+1/-12.6078863144/A white building with a street sign on the side.
+2/-12.8617095947/A building with a street sign on the side of it.
+3/-13.882891655/A large building with a street sign on the side of it.
+4/-18.2646522522/A large building with a street sign on the side of a store.

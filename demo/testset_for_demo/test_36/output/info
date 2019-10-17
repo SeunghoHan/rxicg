@@ -1,0 +1,7 @@
+test_num:test_36
+image_id:coco_113089
+cap_pred:an elephant grabbing carrot on the grass with banana
+cap_GT:an elephant picks up a green banana from the grass
+r_num:2
+r1:carrot|210,245,280,325|0,0.053,0.016,0.827,0,0,0.102,0,0.002
+r2:grass|350,10,460,130|0,0.067,0,0.025,0,0,0.893,0,0.015

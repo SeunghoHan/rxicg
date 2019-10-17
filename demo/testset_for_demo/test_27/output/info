@@ -1,0 +1,7 @@
+test_num:test_27
+image_id:coco_175491
+cap_pred:a cat laying on a bed with a handbag
+cap_GT:a white and black cat laying on a person with a purse
+r_num:2
+r1:bed|10,30,140,350|0,0.106,0.0522,0,0,0.821,0,0,0
+r2:handbag|120,40,390,180|0,0.009,0.003,0,0,0.027,0,0,0.961

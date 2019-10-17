@@ -1,0 +1,8 @@
+test_num:test_65
+image_id:coco_1503
+cap_pred:a monitor and keyboard next to a laptop
+cap_GT:a computer on a desk next to a laptop
+r_num:3
+r1:monitor|10,120,105,240|0,0.871,0.002,0.112,0,0,0,0.015
+r2:keyboard|150,160,200,315|0,0.061,0.001,0.054,0.003,0,0,0.881
+r3:laptop|95,0,240,120|0,0.071,0,0.911,0,0,0,0.018

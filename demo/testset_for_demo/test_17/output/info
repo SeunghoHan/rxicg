@@ -1,0 +1,9 @@
+test_num:test_17
+image_id:coco_509870
+cap_pred:a desk with a monitor and laptop and keyboard in front of chair
+cap_GT:a desktop computer and a laptop are running at a desk overlooking a meeting area
+r_num:4
+r1:monitor|60,140,170,270|0,0.129,0,0,0.803,0,0.05,0,0.013,0,0.005,0,0
+r2:laptop|80,250,240,390|0,0.111,0,0,0.042,0,0.828,0,0.015,0,0,0,0.003
+r3:keyboard|235,160,275,290|0,0.106,0,0,0.051,0,0.025,0,0.814,0,0,0,0.003
+r4:chair|0,20,140,130|0,0.076,0,0,0.008,0,0.002,0,0,0,0.028,0,0.886

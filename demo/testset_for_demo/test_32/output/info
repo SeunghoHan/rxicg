@@ -1,0 +1,8 @@
+test_num:test_32
+image_id:coco_531917
+cap_pred:people sitting on bench tree in a park
+cap_GT:people sit together on wooden benches in a city park
+r_num:3
+r1:people|290,380,415,490|0.898,0.055,0,0.029,0.014,0,0,0.005
+r2:tree|20,20,320,140|0.02,0.008,0,0.049,0.835,0,0,0.087
+r3:bench|300,350,400,500|0.034,0.033,0,0.903,0.011,0,0,0.023

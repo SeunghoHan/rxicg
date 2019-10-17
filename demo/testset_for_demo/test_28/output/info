@@ -1,0 +1,7 @@
+test_num:test_28
+image_id:coco_43289
+cap_pred:a cat sitting on a table of a laptop
+cap_GT:a cat sitting on top of a laptop on a table
+r_num:2
+r1:cat|260,120,455,390|0,0.943,0.031,0,0,0.024,0,0,0.001
+r2:table|340,170,620,420|0,0.049,0.008,0,0,0.921,0,0,0.021

@@ -1,0 +1,8 @@
+test_num:test_7
+image_id:coco_465836
+cap_pred:a group of people pose on the skis in front of trees
+cap_GT:a group of people standing next to each other
+r_num:3
+r1:person|120,150,320,220|0,0.116,0,0.881,0.002,0,0,0.001,0,0,0,0
+r2:skis|280,260,350,370|0,0.001,0,0.098,0.002,0,0,0.901,0,0,0,0.001
+r3:tree|0,370,260,500|0,0,0,0.015,0.003,0,0,0.001,0,0.01,0,971

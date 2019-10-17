@@ -1,0 +1,5 @@
+man
+woman
+phone
+men
+holding

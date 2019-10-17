@@ -1,0 +1,5 @@
+mall
+beach
+escalator
+sailing
+lighthouse

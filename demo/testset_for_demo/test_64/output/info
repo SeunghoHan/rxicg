@@ -1,0 +1,7 @@
+test_num:test_64
+image_id:coco_435034
+cap_pred:a train on the rallway next to building in the city
+cap_GT:switching yard of an industrial railway station in a city
+r_num:2
+r1:train|250,0,365,375|0,0.92,0,0,0.042,0.009,0,0.025,0,0,0.004
+r2:building|190,0,270,300|0,0.038,0,0,0.017,0,0,0.866,0,0,0.079

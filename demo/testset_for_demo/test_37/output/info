@@ -1,0 +1,8 @@
+test_num:test_37
+image_id:coco_184621
+cap_pred:a group of people sitting on the chair of back of a elephant
+cap_GT:a group of men riding on the back of a small elephant
+r_num:3
+r1:people|90,360,270,450|0,0.081,0,0.859,0.046,0,0,0.011,0,0,0,0,0.002
+r2:chair|185,200,250,280|0,0.017,0,0.032,0.11,0,0,0.838,0,0,0,0,0.002
+r3:elephant|230,205,480,580|0,0,0,0.015,0.007,0,0,0.04,0,0,0,0,0.937

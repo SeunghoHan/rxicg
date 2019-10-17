@@ -1,0 +1,5 @@
+skis
+ski
+person
+skiing
+skier

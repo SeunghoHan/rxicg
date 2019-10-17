@@ -1,0 +1,5 @@
+cat
+dogs
+black
+shoulder
+dog

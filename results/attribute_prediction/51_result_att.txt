@@ -1,0 +1,5 @@
+laptop
+monitor
+menu
+microwave
+presentation

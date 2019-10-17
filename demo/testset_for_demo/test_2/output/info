@@ -1,0 +1,8 @@
+test_num:test_2
+image_id:coco_27972
+cap_pred:a man riding a surfboard in the ocean
+cap_GT:a man is surfing in the ocean
+r_num:3
+r1:man|10,120,105,240|0,0.871,0.112,0,0.01,0,0,0.007
+r2:surfboard|150,160,200,315|0,0.004,0.012,0,0.892,0,0,0.092
+r3:ocean|100,0,240,130|0,0.001,0.003,0,0.102,0,0,0.894

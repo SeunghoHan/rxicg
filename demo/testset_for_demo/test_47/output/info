@@ -1,0 +1,8 @@
+test_num:test_47
+image_id:coco_306440
+cap_pred:a man riding on a skateboard to football walking a dog
+cap_GT:a man riding on a skateboard with a dog on a leach going towards a city
+r_num:3
+r1:man|130,440,330,540|0,0.865,0.076,0,0,0.015,0,0.005,0.04,0,0
+r2:skateboard|320,425,365,515|0,0.02,0.061,0.011,0,0.906,0,0,0,0,0.002
+r3:football|165,200,215,235|0,0.054,0,0,0,0,0.002,0.917,0.019,0,0.007

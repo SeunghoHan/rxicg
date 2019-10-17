@@ -1,0 +1,9 @@
+test_num:test_16
+image_id:coco_239644
+cap_pred:a woman sitting on a bench next to bicycle and dog
+cap_GT:a lady sitting on a bench next to a bicycle holds the leash to a dog
+r_num:4
+r1:woman|30,80,500,490|0,0.824,0.108,0,0,0.042,0,0,0.014,0,0.013
+r2:bench|200,0,420,270|0,0.046,0.096,0,0,0.839,0,0,0.016,0,0.002
+r3:bicycle|140,320,500,640|0,0.12,0.058,0,0,0,0,0,0.818,0,0.003
+r4:dog|360,220,550,390|0,0.045,0.092,0,0,0.004,0,0,0.002,0,0.841

@@ -1,0 +1,9 @@
+test_num:test_3
+image_id:coco_61108
+cap_pred:a dog sits in the basket of a bicycle in front of bench
+cap_GT:a dog sits in the basket of a bicycle
+r_num:4
+r1:dog|180,120,300,240|0,0.811,0.167,0,0,0.01,0,0,0.007,0,0,0,0.005
+r2:basket|200,120,370,260|0,0.061,0.001,0,0,0.881,0,0,0.003,0,0,0,0.054
+r3:bicycle|130,150,475,630|0,0.004,0.001,0,0,0.148,0,0,0.837,0,0,0,0.01
+r4:bench|30,50,180,380|0,0.004,0.089,0,0,0.001,0,0,0.002,0,0.059,0,0.845

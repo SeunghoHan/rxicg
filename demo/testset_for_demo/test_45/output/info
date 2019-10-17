@@ -1,0 +1,7 @@
+test_num:test_45
+image_id:coco_281835
+cap_pred:a car is on the street in the large building
+cap_GT:a bird sits on concrete structure outdoors during the day
+r_num:2
+r1:car|160,100,260,380|0,0.798,0,0,0,0.133,0,0,0.023,0.046
+r2:building|10,430,245,620|0,0.002,0,0,0,0.015,0,0,0.053,0.924

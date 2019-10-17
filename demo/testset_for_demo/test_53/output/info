@@ -1,0 +1,7 @@
+test_num:test_53
+image_id:coco_64616
+cap_pred:a train with bird on the street in a birthday
+cap_GT:a train-like birthday cake during a special day
+r_num:2
+r1:train|250,230,340,590|0,0.925,0,0,0.008,0,0.064,0,0,0.002
+r2:bird|170,525,215,590|0,0.004,0,0.928,0,0,0.055,0,0,0.013

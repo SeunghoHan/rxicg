@@ -1,0 +1,8 @@
+test_num:test_52
+image_id:coco_64016
+cap_pred:a person holding a handbag in front of the tree
+cap_GT:people watching a person holding a bird in a wooded area
+r_num:3
+r1:person|115,20,400,220|0,0.912,0.056,0,0.029,0,0,0,0,0.003
+r2:handbag|145,260,255,335|0,0.017,0.049,0,0.926,0,0,0,0,0.007
+r3:tree|5,400,310,475|0,0.017,0,0,0.006,0,0.009,0,0,0.986

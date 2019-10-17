@@ -1,0 +1,7 @@
+test_num:test_60
+image_id:coco_33126
+cap_pred:a screen showing the time on the desk
+cap_GT:a persons hand holding an htc phone sideways with the clock showing 2:52 am
+r_num:2
+r1:screen|105,280,320,520|0,0.87,0.089,0,0.031,0,0,0.011
+r2:desk|120,210,410,600|0,0.63,0,0,0,0,0.03,0.908

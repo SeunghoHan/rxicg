@@ -1,0 +1,8 @@
+test_num:test_34
+image_id:coco_185666
+cap_pred:three motorcycle in front of a car with people in city
+cap_GT:three police officers on motorcycles escorting a vehicle in city
+r_num:3
+r1:motorcycle|150,80,420,295|0.044,0.841,0,0.018,0,0,0.09,0,0.007,0,0
+r2:car|245,0,220,200|0,0.012,0,0,0,0,0.876,0,0.081,0,0.026
+r3:people|20,300,130,350|0,0.029,0,0.013,0,0,0.063,0,0.892,0,0.003

@@ -1,0 +1,5 @@
+0/-17.7621936798/There is a white machine with a sign on the street.
+1/-17.8692760468/There is a machine with many food on the side.
+2/-17.8842315674/There is a white machine with many items on the street.
+3/-18.1276569366/There is a white machine with many items on the side.
+4/-18.3581542969/There is a white machine with a sign on the side.

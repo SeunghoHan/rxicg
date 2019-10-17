@@ -1,0 +1,9 @@
+test_num:test_58
+image_id:coco_295713
+cap_pred:a woman sitting on a bench next to person with handbag
+cap_GT:a woman sitting on a bench near a statue, checking her phone
+r_num:4
+r1:woman|100,430,350,530|0,0.811,0.124,0,0,0.043,0,0,0.017,0,0.005
+r2:bench|250,50,360,250|0,0.054,0.116,0,0,0.806,0,0,0.019,0,0.005
+r3:person|60,100,370,220|0,0.035,0.018,0,0,0.009,0,0,0.937,0,0
+r4:handbag|190,380,270,445|0,0.049,0,0,0.002,0,0,0.016,0.082,0,0.851

@@ -1,0 +1,8 @@
+test_num:test_10
+image_id:coco_196
+cap_pred:a variety of food such as carrot and bread in bowl
+cap_GT:a table layed out with food such as, salad, carrots, steamed corn, and bread
+r_num:3
+r1:carrot|330,370,480,520|0,0.006,0,0.019,0,0,0.927,0,0.002,0,0.046
+r2:bread|180,0,280,170|0,0.017,0,0.065,0,0,0.001,0,0.905,0,0.0012
+r3:bowl|170,220,350,570|0,0.005,0,0.114,0,0,0.005,0,0.022,0,0.846

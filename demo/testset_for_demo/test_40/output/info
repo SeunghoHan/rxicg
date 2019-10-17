@@ -1,0 +1,9 @@
+test_num:test_40
+image_id:coco_355685
+cap_pred:a group of people sitting at a diningtable with cake and pizza
+cap_GT:a group of people sitting around a table with food
+r_num:4
+r1:people|115,5,420,160|0,0.111,0,0.815,0.048,0,0,0.023,0,0,0,0.004
+r2:cake|210,240,260,31|0,0,0,0.013,0.003,0,0,0.08,0,0.859,0,0.044
+r3:diningtable|170,150,410,525|0,0,0,0.059,0.006,0,0,0.796,0,0.108,0,0.032
+r4:pizza|275,200,325,280|0,0,0,0.006,0.015,0,0,0.084,0,0.038,0,0.857

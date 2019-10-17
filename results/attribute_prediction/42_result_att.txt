@@ -1,0 +1,5 @@
+keyboards
+calculator
+calculators
+laptop
+microwave

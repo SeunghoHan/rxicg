@@ -1,0 +1,5 @@
+0/-12.7635746002/A baby elephant is laying on the grass.
+1/-13.2133579254/A baby elephant is laying on the ground.
+2/-13.6299591064/A baby elephant is laying on the grass trunk.
+3/-13.6561565399/A baby elephant is laying on the trunk.
+4/-16.9832687378/A baby elephant is laying on the back of a trunk.

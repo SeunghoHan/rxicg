@@ -1,0 +1,8 @@
+test_num:test_29
+image_id:coco_278134
+cap_pred:person1 and person2 sitting on a couch with cat
+cap_GT:two of knitting books sit on a couch
+r_num:3
+r1:person1|190,80,350,200|0.511,0,0.38,0.065,0,0,0.033,0,0.01
+r2:person2|120,250,280,350|0.301,0,0.538,0.099,0,0,0.055,0,0.007
+r3:cat|160,130,280,260|0.034,0,0.026,0.032,0,0,0.012,0,0.896

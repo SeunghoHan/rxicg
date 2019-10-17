@@ -1,0 +1,5 @@
+0/-17.5077419281/A kitchen with a yellow machine and a refrigerator.
+1/-17.9839439392/A kitchen with a yellow refrigerator and a machine.
+2/-18.3175411224/A kitchen with a yellow refrigerator and a sign.
+3/-18.3859329224/A kitchen with a yellow refrigerator with a door.
+4/-18.7421855927/A kitchen with a yellow refrigerator and a door.

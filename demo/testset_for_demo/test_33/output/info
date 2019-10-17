@@ -1,0 +1,7 @@
+test_num:test_33
+image_id:coco_554729
+cap_pred:people with luggage carousel at an airport
+cap_GT:a luggage carousel sitting in an airport topped with luggage
+r_num:2
+r1:people|80,370,140,470|0.925,0,0.048,0.023,0,0,0.004
+r2:luggage|200,210,310,320|0.114,0,0.853,0.047,0,0,0

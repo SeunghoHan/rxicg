@@ -1,0 +1,7 @@
+test_num:test_42
+image_id:coco_138025
+cap_pred:variety bread and donut with bakery case
+cap_GT:a large bakery display case displaying a variety of pastries
+r_num:2
+r1:bread|270,250,370,410|0.029,0.865,0,0.09,0,0.016,0
+r2:donut|20,290,130,350|0.028,0.071,0,0.89,0,0.01,0

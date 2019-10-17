@@ -1,0 +1,5 @@
+0/-7.38648700714/A brown bear walking in a field of grass.
+1/-7.56143331528/A brown bear standing in a field of grass.
+2/-8.7932882309/A brown bear standing in a field near some trees.
+3/-9.14892292023/A brown bear standing in a field near a tree.
+4/-9.23741722107/A brown bear walking in a field near a tree.

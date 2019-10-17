@@ -1,0 +1,8 @@
+test_num:test_56
+image_id:coco_213342
+cap_pred:a car with several laptop in front of screen on top of floor
+cap_GT:a big screen tv on a stand, several laptops on the floor and just a mess everywhere
+r_num:3
+r1:car|170,260,220,380|0,0.94,0,0.041,0,0,0.012,0,0.006,0,0.001,0,0
+r2:laptop|500,260,620,360|0,0,0,0.011,0.837,0,0.003,0,0.108,0,0,0,0.041
+r3:screen|110,210,250,410|0,0,0,0.005,0.11,0,0.027,0,0.792,0,0.005,0,0.06

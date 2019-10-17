@@ -1,0 +1,7 @@
+test_num:test_12
+image_id:coco_411111
+cap_pred:a bus is on the street near white building
+cap_GT:a busy city street packed with commuter buses
+r_num:2 
+r1:bus|180,340,390,480|0.028,0.845,0,0.002,0,0.108,0,0,0.016
+r2:building|0,70,320,240|0.008,0.002,0,0,0,0.024,0,0.045,0.92

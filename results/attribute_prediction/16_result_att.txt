@@ -1,0 +1,5 @@
+standing
+horse
+sheep
+cows
+mound

@@ -1,0 +1,8 @@
+test_num:test_5
+image_id:coco_116825
+cap_pred:a cat paws at a knife on a diningtable
+cap_GT:a cat pawing at an object on a table
+r_num:3
+r1:cat|0,80,355,380|0,0.924,0.055,0.019,0,0.001,0,0,0.002
+r2:diningtable|20,190,360,640|0,0.008,0,0.009,0,0.003,0,0,0.98
+r3:knife|130,370,260,510|0,0.002,0.001,0,0,0.971,0,0,0.026

@@ -1,0 +1,7 @@
+test_num:test_6
+image_id:coco_162858
+cap_pred:a cars waiting at a red traffic light on the street
+cap_GT:a city street filled with lots of cars
+r_num:2
+r1:car|320,50,480,200|0,0.902,0.001,0,0,0.001,0.055,0.035,0,0,0.006
+r2:traffic light|150,140,230,360|0,0.101,0.074,0,0,0.124,0.301,0.34,0,0,06

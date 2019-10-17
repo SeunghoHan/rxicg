@@ -1,0 +1,5 @@
+0/-20.5327835083/There is a yellow plane that is parked on the street.
+1/-20.9220790863/There is a yellow plane that is parked on the road.
+2/-21.26820755/There is a yellow plane that is parked in the street.
+3/-21.5023765564/There is a yellow plane that is parked on the side.
+4/-24.0762500763/There is a yellow plane that is parked on the side of the road.

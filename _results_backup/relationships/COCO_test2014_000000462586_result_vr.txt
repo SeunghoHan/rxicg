@@ -1,0 +1,5 @@
+shirt-on-person\tie-on-person\face-on-person\tie-on-shirt\face-on-shirt\tie-on-face
+shirt-on-person\tie-on-person\face-on-person\tie-on-shirt\face-on-shirt\tie-on-face
+shirt-on-person\tie-on-person\face-on-person\tie-on-shirt\face-on-shirt\tie-on-face
+shirt-on-person\tie-on-person\face-on-person\tie-on-shirt\face-on-shirt\tie-on-face
+shirt-on-person\tie-on-person\face-on-person\tie-on-shirt\face-on-shirt\tie-on-face

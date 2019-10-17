@@ -1,0 +1,8 @@
+test_num:test_49
+image_id:coco_99297
+cap_pred:a bear walking on beach with grass coverd forest
+cap_GT:a bear observing something on the ground of a field
+r_num:3
+r1:bear|195,250,245,329|0,0.917,0.055,0,0,0,0.002,0,0.027
+r2:beach|275,235,310,450|0,0,0.049,0.015,0.936,0,0,0.015,0
+r3:forest|100,80,210,520|0,0.031,0,0,0,0,0.091,0.043,0.866

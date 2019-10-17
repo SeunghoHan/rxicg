@@ -1,0 +1,7 @@
+test_num:test_20
+image_id:coco_552672
+cap_pred:a man holding a tennis racket on a tennis court
+cap_GT:a man holding a tennis racket on a brown tennis court
+r_num:2
+r1:man|50,80,360,250|0,0.881,0.075,0,0.006,0.018,0,0,0.006,0.014
+r2:tennis racket|200,180,260,310|0,0.033,0.013,0,0.188,0.516,0,0,0.165,0.85

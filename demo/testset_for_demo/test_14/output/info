@@ -1,0 +1,8 @@
+test_num:test_14
+image_id:coco_94210
+cap_pred:a group of people standing in the street with unbrella and sign
+cap_GT:a group of people with umbrellas standing in the rain
+r_num:3
+r1:people|250,200,410,240|0,0.123,0,0.833,0.024,0,0,0.004,0,0.014,0,0.002
+r2:unbrella|210,330,250,400|0,0.004,0,0.121,0.028,0,0,0,0,0.838,0,0
+r3:sign|180,425,225,495|0,0,0,0.012,0.001,0,0,0.042,0,0,0,0.945

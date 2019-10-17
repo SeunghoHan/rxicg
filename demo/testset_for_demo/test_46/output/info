@@ -1,0 +1,8 @@
+test_num:test_46
+image_id:coco_266579
+cap_pred:a bird on the football with boat in the water
+cap_GT:segull sits on a floatation device looking at a boat on the water
+r_num:3
+r1:bird|460,185,550,240|0,0.93,0,0,0.01,0,0.004,0,0,0.056
+r2:football|540,170,600,260|0,0.009,0,0,0.959,0,0.002,0,0,0.31
+r3:boat|180,0,360,170|0,0.024,0,0,0.004,0,0.804,0,0,0.114

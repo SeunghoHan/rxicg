@@ -1,0 +1,8 @@
+test_num:test_9
+image_id:coco_462011
+cap_pred:a man wearing a tie and handbag in the room
+cap_GT:a man wearing a tie and white shirt in the room
+r_num:3
+r1:man|3,170,420,600|0,0.858,0.106,0,0.022,0,0.01,0,0,0.004
+r2:tie|10,380,370,460|0,0.132,0.039,0,0.822,0,0.002,0,0,0.005
+r3:handbag|330,260,420,550|0,0.028,0.104,0,0.012,0,0.851,0,0,0.004

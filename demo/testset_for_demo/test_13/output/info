@@ -1,0 +1,8 @@
+test_num:test_13
+image_id:coco_250076
+cap_pred:a man sitting on a bench in park near red truck next to park
+cap_GT:a view of two red trucks, a man sitting on a bench, and cars on the side
+r_num:3
+r1:man|270,200,340,240|0,0.823,0.117,0,0,0.036,0,0.021,0,0,0.003,0,0,0.001
+r2:bench|310,340,350,430|0,0.035,0.118,0,0,0.806,0,0.021,0,0,0,0,0,0.02
+r3:truck|250,480,300,580|0,0.054,0,0,0,0.019,0,0.008,0,0.141,0.808,0,0,0.009

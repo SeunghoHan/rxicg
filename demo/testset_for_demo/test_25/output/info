@@ -1,0 +1,8 @@
+test_num:test_25
+image_id:coco_449879
+cap_pred:a man on motorcycle holding a black dog in his jacket
+cap_GT:a man sitting on a motorcycle with a black cat in his jacket
+r_num:3
+r1:man|20,110,400,320|0,0.934,0,0.035,0.029,0,0,0,0,0,0.002
+r2:motorcycle|160,0,500,320|0,0.069,0,0.891,0.025,0,0.011,0,0,0,0.005
+r3:dog|110,200,200,270|0,0.077,0,0,0.036,0,0.012,0.873,0,0,0.002

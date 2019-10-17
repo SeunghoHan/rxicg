@@ -1,0 +1,8 @@
+test_num:test_30
+image_id:coco_235609
+cap_pred:a man wearing a tie standing near a sink in the mirror
+cap_GT:a man taking a picture of himself in the mirror tying a tie
+r_num:3
+r1:man|20,170,440,300|0,0.813,0.089,0,0.044,0.047,0,0,0,0,0,0
+r2:tie|100,230,200,260|0,0.053,0.115,0,0.81,0.018,0,0,0,0,0,0.003
+r3:sink|350,475,440,640|0,0.021,0,0,0,0,0.055,0,0.912,0,0,0.011

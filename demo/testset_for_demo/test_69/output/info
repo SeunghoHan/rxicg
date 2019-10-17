@@ -1,0 +1,8 @@
+test_num:test_69
+image_id:coco_389137
+cap_pred:a motorcycle on a tow truck near people
+cap_GT:a trucking carrying a motorcycle traveling down a busy street
+r_num:3
+r1:motorcycle|180,120,300,300|0,0.872,0,0,0.012,0.078,0,0.036
+r2:truck|160,15,435,550|0,0.043,0,0,0.096,0.849,0,0.012
+r3:people|197,310,300,360|0,0.077,0,0,0.003,0.051,0,0.869

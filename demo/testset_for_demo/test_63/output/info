@@ -1,0 +1,8 @@
+test_num:test_63
+image_id:coco_87672
+cap_pred:a man standing on a platform with large fan
+cap_GT:an airplane is parked at the airport for maintenance
+r_num:3
+r1:man|165,90,320,140|0,0.85,0.094,0.041,0,0.014,0,0,0
+r2:platform|290,50,400,300|0,0,0.034,0.011,0,0.954,0,0,0
+r3:fan|120,250,290,410|0,0,0,0.004,0,0.017,0,0.053,0.927

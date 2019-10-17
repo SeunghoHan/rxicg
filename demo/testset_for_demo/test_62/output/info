@@ -1,0 +1,7 @@
+test_num:test_62
+image_id:coco_251256
+cap_pred:a plane parked loaded with cargo many truck
+cap_GT:a large jet airplane getting loaded with cargo
+r_num:2
+r1:plane|145,0,260,590|0,0.927,0.021,0.008,0,0.044,0,0
+r2:truck|300,90,400,280|0,0.015,0.032,0.004,0,0.067,0,0.882

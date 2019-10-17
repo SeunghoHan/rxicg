@@ -1,0 +1,5 @@
+0/-12.7261037827/A white refrigerator with refrigerators on the side of it.
+1/-12.8849143982/A white refrigerator with two refrigerators on the wall.
+2/-12.8915233612/A white refrigerator with two refrigerators on the side.
+3/-12.9352092743/A white refrigerator with refrigerators on the wall.
+4/-15.6260709763/A white refrigerator with refrigerators on the side of the door.
